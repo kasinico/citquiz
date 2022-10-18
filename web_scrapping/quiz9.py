@@ -2,11 +2,6 @@
 # The csv file should have the following columns: title, link, points, comments, author, rank. 
 # The csv file should be sorted by rank in ascending order.
 
-
-
-
-from turtle import title
-from urllib import response
 import requests
 from bs4 import BeautifulSoup
 import csv
